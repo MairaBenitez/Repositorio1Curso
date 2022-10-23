@@ -8,7 +8,6 @@ package pack1;
  *
  * @author MAIRA
  */
-public class clase1 {
-    int num;
-    float flotante;
+public class clase2 {
+    String cadena;
 }
